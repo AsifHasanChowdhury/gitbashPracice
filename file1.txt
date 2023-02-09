@@ -1,1 +1,2 @@
-This is Updated by Child 1. Is it working
+This is Updated by Child 1. Is it working.
+Hi this is child2 Update.
